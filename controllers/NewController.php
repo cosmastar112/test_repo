@@ -39,4 +39,10 @@ class NewController extends Controller
     {
         return 1;
     }
+
+    // new/feature
+    public function actionFeature()
+    {
+        return 2;
+    }
 }
